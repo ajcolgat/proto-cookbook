@@ -5,3 +5,11 @@ dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+
+name: gridradpy
+channels: 
+    - pip
+dependencies:
+    - xarray
+    - netcdf4
+    - matplotlib
