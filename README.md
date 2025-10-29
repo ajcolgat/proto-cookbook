@@ -7,15 +7,16 @@
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Project Pythia Cookbook covers working with gridded radar reflectivity data from GridRad. 
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+This notebook will show the beginning outline of this project and how it will be structured. It will go into detail as to the foundations for this project and show the dataset that I will be using. This outline will help me get a better idea on how to format the project and import the datasets. 
 
 ## Authors
 
-[First Author](https://github.com/first-author1), [Second Author](https://github.com/second-author2), etc. _Acknowledge primary content authors here_
+[Alex Colgate](https://github.com/ajcolgat), [Amanda Maminimini](https://github.com/Amaminimini), [Alex Kramer](https://github.com/krameral), 
+[Mark Warburg](https://github.com/Warburgm) 
 
 ### Contributors
 
@@ -25,15 +26,15 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+This notebook is broken up into two sections: "Foundations" and "Example Workflows". 
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### Foundations 
 
-(Add content for this section, e.g., "The foundational content includes ... ")
+The foundational content includes 
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### Example workflows 
 
-(Add content for this section, e.g., "Example workflows include ... ")
+Some example workflows include the gridradpy package to read in the GridRad data, in conjunction with xarray and netCDF4. 
 
 ## Running the Notebooks
 
