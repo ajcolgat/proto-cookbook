@@ -30,11 +30,11 @@ This notebook is broken up into two sections: "Foundations" and "Example Workflo
 
 ### Foundations 
 
-The foundational content includes 
+The foundational content includes the different synoptic environments in the Northeast U.S. we will be testing to look at the role of topography on different severe thunderstorm events, and information on the GridRad-Severe Version 4.2 dataset to read in and study gridded reflectivity analysis. 
 
 ### Example workflows 
 
-Some example workflows include the gridradpy package to read in the GridRad data, in conjunction with xarray and netCDF4. 
+Some example workflows include the gridradpy package to read in the GridRad data, in conjunction with xarray, netCDF4 and matplotlib. I will be importing reflectivity data from the GridRad package based on specific severe thunderstorm events we choose. 
 
 ## Running the Notebooks
 
@@ -68,20 +68,20 @@ If you are interested in running this material locally on your computer, you wil
 
 (Replace "cookbook-example" with the title of your cookbooks)
 
-1. Clone the `https://github.com/ProjectPythia/cookbook-example` repository:
+1. Clone the `https://github.com/ProjectPythia/proto-cookbook` repository:
 
    ```bash
-    git clone https://github.com/ProjectPythia/cookbook-example.git
+    git clone https://github.com/ProjectPythia/proto-cookbook.git
    ```
 
-1. Move into the `cookbook-example` directory
+1. Move into the `proto-cookbook` directory
    ```bash
-   cd cookbook-example
+   cd proto-cookbook
    ```
 1. Create and activate your conda environment from the `environment.yml` file
    ```bash
    conda env create -f environment.yml
-   conda activate cookbook-example
+   conda activate proto-cookbook
    ```
 1. Move into the `notebooks` directory and start up Jupyterlab
    ```bash
