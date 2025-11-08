@@ -34,7 +34,7 @@ The foundational content includes the different synoptic environments in the Nor
 
 ### Example workflows 
 
-Some example workflows include the gridradpy package to read in the GridRad data, in conjunction with xarray, netCDF4 and matplotlib. I will be importing reflectivity data from the GridRad package based on specific severe thunderstorm events we choose. 
+Some example workflows include the gridradpy package to read in the GridRad data, in conjunction with xarray, netCDF4 and matplotlib. I will be importing reflectivity data from the GridRad package based on specific severe thunderstorm events we choose. Additionally, I will be importing some ERA5 hourly data to compare with the outputs from the GridRad-Severe data. 
 
 ## Running the Notebooks
 
