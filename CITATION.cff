@@ -3,7 +3,7 @@ message: "If you use this cookbook, please cite it as below."
 authors:
   - family-names: Colgate
     given-names: Alex
-    orcid: https://orcid.org/0009-0007-6279-9080 # optional
-    website: https://github.com/ajcolgat # optional
-    affiliation: University at Albany (State University of New York) # optional
+    orcid: https://orcid.org/0009-0007-6279-9080 
+    website: https://github.com/ajcolgat 
+    affiliation: University at Albany (State University of New York) 
 
