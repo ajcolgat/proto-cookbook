@@ -11,5 +11,16 @@ channels:
     - pip
 dependencies:
     - xarray
-    - netcdf4
+    - cartopy
+    - matplotlib
+    - numpy
+
+name: era5
+channels:
+    - conda-forge
+dependencies:
+    - xarray
+    - numpy
+    - metpy
+    - cartopy
     - matplotlib
