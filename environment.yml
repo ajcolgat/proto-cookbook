@@ -15,12 +15,3 @@ dependencies:
     - matplotlib
     - numpy
 
-name: era5
-channels:
-    - conda-forge
-dependencies:
-    - xarray
-    - numpy
-    - metpy
-    - cartopy
-    - matplotlib
