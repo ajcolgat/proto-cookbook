@@ -16,12 +16,12 @@ project:
     - title: Introduction
       children:
         - file: notebooks/notebook-template.ipynb
-    - title: Notebook 1
+    - title: GridRad Reflectivity and Azimuthal Shear Data
       children: 
-        - file: notebooks/notebook1.ipynb
-    - title: Notebook 2
+        - file: notebooks/gridradrefl_azshear.ipynb
+    - title: GridRad Velocity Spectrum Width and Correlation Coefficient Data 
       children:
-        - file: notebooks/notebook2.ipynb
+        - file: notebooks/gridradspec_corr.ipynb
   jupyter:
       binder:
         repo: projectpythia/proto-cookbook
