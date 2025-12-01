@@ -1,0 +1,1 @@
+import{a}from"/proto-cookbook/_preview/1/build/_shared/chunk-5736WJYA.js";import"/proto-cookbook/_preview/1/build/_shared/chunk-I232HDZP.js";import"/proto-cookbook/_preview/1/build/_shared/chunk-OZE3FFNP.js";export default a();
