@@ -16,10 +16,10 @@ project:
     - title: Introduction
       children:
         - file: notebooks/notebook-template.ipynb
-    - title: Reading in GridRad-Severe Data Part 1: Radar Reflectivity and Azimuthal Shear 
+    - title: Plotting Radar Reflectivity and Azimuthal Shear GridRad-Severe Data 
       children: 
         - file: notebooks/gridradrefl_azshear.ipynb
-    - title: Reading in GridRad-Severe Data Part 2: Velocity Spectrum Width and Correlation Coefficient
+    - title: Plotting Velocity Spectrum Width and Correlation Coefficient GridRad-Severe Data 
       children:
         - file: notebooks/gridradspec_corr.ipynb
   jupyter:
